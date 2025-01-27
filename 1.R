@@ -6,3 +6,4 @@ print("And now it lives on GitHub")
 
 pirnt("ahmet")
 print("mehmet")
+print("ali")
